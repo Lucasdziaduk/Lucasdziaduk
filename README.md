@@ -15,26 +15,30 @@ My main interests include Artificial Intelligence, Generative AI, Machine Learni
 - AI Agents and Intelligent Systems
 - Backend Development and Software Engineering
 
+
 ### Technologies & Tools
 
-**Languages**
-- Python
-- C#
-- SQL
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>AI & Machine Learning</th>
+    <th>Backend & Development</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,cs,mysql" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,huggingface" />
+      <br/>
+      LangChain · LangGraph · FAISS
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,git,github" />
+    </td>
+  </tr>
+</table>
 
-**AI & Machine Learning**
-- LangChain
-- LangGraph
-- FAISS
-- Sentence Transformers
-- Hugging Face
-
-**Backend & Development**
-- FastAPI
-- Django
-- MySQL
-- PostgreSQL
-- Git & GitHub
 
 ### Featured Projects
 
